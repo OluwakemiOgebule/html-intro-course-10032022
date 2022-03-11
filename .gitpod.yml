@@ -24,4 +24,5 @@ vscode:
     - mkaufman.HTMLHint
     - deque-systems.vscode-axe-linter
 
+    - wesbos.theme-cobalt2
 
